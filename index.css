@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp6451487.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment: fixed;
+}
+.title-text{
+    text-align: center;
+}
+.title-text > h1 {
+    color: #ffffff;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+.title-text > h2 {
+    color: #ffffff;
+    font-family: "Sacramento", cursive;
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+
+.ub{
+    background-color: white;
+    padding: 3.5%;
+    border-radius: 30px;
+    margin-top:2%;
+}
+
+.profimg{
+    width: 150px;
+    border-radius: 500px;   
+}
+
+.profname{
+    padding-top:25px;
+    text-align: center;
+}
+.profage{
+
+    text-align: center;
+}
+
+#projects{
+    margin-top:40px;
+}
+.nav-pills .nav-link.active {
+    background-color: rgb(149, 40, 149);
+    color: white;
+}
